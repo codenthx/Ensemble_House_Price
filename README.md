@@ -69,7 +69,7 @@ Feature importance analysis and SHAP were used to understand which features cont
 
 SHAP was used to explain the XGBoost model and identify how individual features contribute to the model's predictions.
 
-![SHAP Summary Plot](plot/shap_summary_plot.png)
+![SHAP Summary Plot](plots/shap_summary_plot.png)
 ## Final Model
 
 The final tuned XGBoost pipeline was saved as:
