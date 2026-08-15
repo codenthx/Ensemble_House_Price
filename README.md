@@ -1,5 +1,5 @@
 
-# Week 3: Feature Engineering and Ensemble Learning
+# Feature Engineering and Ensemble Learning
 
 ## Project Objective
 
